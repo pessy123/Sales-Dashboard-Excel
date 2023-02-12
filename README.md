@@ -49,3 +49,9 @@ Occupation vs Bikes Purcahsed
 People with Professional Occupation purchased more bikes comapred to other occupations
 
 
+Find the Dashboard in Excel file
+![image](https://user-images.githubusercontent.com/31557847/218332668-f982da40-89d8-4008-a700-e86783a1fe54.png)
+
+
+
+
